@@ -1,0 +1,7 @@
+yt-dlp
+SpeechRecognition
+pydub
+youtube-transcript-api
+openai-whisper
+torch
+tqdm
