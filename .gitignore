@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# Project folders
+notes/
+venv/
+env/
+ENV/
+
+# Project specific
+notes/
+temp_audio_*/
+*.mp3
+*.wav
+transcript_*.txt
+audio_*.mp3
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
