@@ -3,5 +3,6 @@ SpeechRecognition
 pydub
 youtube-transcript-api
 openai-whisper
-torch
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 tqdm
+streamlit

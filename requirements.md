@@ -18,4 +18,6 @@ tqdm
 You can install these requirements with:
 ```bash
 pip install -r requirements.txt
+
+streamlit run streamlit_app.py
 ```
